@@ -1,6 +1,6 @@
 # 🌍 WanderLust
 
-<img src=https://www.freepik.com/premium-vector/wanderlust-adventure-logo_4051222.htm" height=200  width=300 alt="WL"/>
+<img src="https://www.freepik.com/premium-vector/wanderlust-adventure-logo_4051222.htm" height=200  width=300 alt="WL"/>
 
 WandurLust is a comprehensive travel platform designed for adventurers and explorers who want to discover and share extraordinary places around the world. Built with the powerful MERN (MongoDB, Express, React, and Node.js) stack, AEROVIA offers a seamless and secure user experience for both casual travelers and serious wanderers.
 
