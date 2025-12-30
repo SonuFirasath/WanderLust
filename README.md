@@ -44,11 +44,11 @@ We welcome contributions to help improve **WanderLust**! 🚀 Here’s how you c
 2. **Clone Your Forked Repository** 🔄
    - After forking, clone the repository to your local machine:
      ```bash
-     git clone https://github.com/your-username/Wanderlust-2024.git
+     git clone https://github.com/your-username/WanderLust.git
      ```
    - Navigate to the project directory:
      ```bash
-     cd Wanderlust-2024
+     cd WanderLust
      ```
 
 3. **Create a New Branch for Your Changes** 🌿
@@ -89,7 +89,7 @@ We welcome contributions to help improve **WanderLust**! 🚀 Here’s how you c
 2. **Navigate to the Project Directory** 📂
    - Change to the directory where the project is located:
      ```bash
-     cd Wanderlust-2024
+     cd WanderLust
      ```
 
 3. **Set Up Your Mapbox Account** 🌐
@@ -183,8 +183,7 @@ For questions or feedback, feel free to reach out via GitHub issues or contact t
 ## ❤️ Made with Love by [F G Firasath](https://github.com/SonuFirasath/)
 
 <div align="center">
-  <a href="https://github.com/Soujanya2004">
-      <img src="https://avatars.githubusercontent.com/Soujanya2004" alt="Your Profile" style="width: 100px; height: 100px; border-radius: 50%; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);">
+  <a href="https://github.com/SonuFirasath">
   </a>
   <h3 style="margin: 10px 0;">Thank You for Your Support! 💖</h3>
   <p style="font-size: 18px; color: #555;">Your contributions help us grow and improve! Happy Coding ✨🚀</p>
