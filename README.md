@@ -28,7 +28,7 @@ Live Link: https://wanderlust-2024-tkqf.onrender.com/listing
 - [🛠️ How to Set Up the Project Locally](#️-how-to-set-up-the-project-locally)
 - [📬 Contact](#-contact)
 - [👀 Our Valuable Contributors](#-our-valuable-contributors-)
-- [❤️ Project owner - F G Firasath](#-made-with-love-by-F G Firasath)
+- [❤️ Project owner - F G Firasath](#-made-with-love-by-F_G_Firasath)
 
 
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
