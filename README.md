@@ -184,6 +184,7 @@ For questions or feedback, feel free to reach out via GitHub issues or contact t
 
 <div align="center">
   <a href="https://github.com/SonuFirasath">
+   <img src="https://avatars.githubusercontent.com/SonuFirasath" alt="Your Profile" style="width: 100px; height: 100px; border-radius: 50%; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);">
   </a>
   <h3 style="margin: 10px 0;">Thank You for Your Support! 💖</h3>
   <p style="font-size: 18px; color: #555;">Your contributions help us grow and improve! Happy Coding ✨🚀</p>
