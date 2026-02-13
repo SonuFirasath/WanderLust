@@ -2,7 +2,7 @@
 
 <img src="https://images.unsplash.com/photo-1619697826506-48a7348face6?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" height=200  width=300 alt="WL"/>
 
-WandurLust is a comprehensive travel platform designed for adventurers and explorers who want to discover and share extraordinary places around the world. Built with the powerful MERN (MongoDB, Express, React, and Node.js) stack, AEROVIA offers a seamless and secure user experience for both casual travelers and serious wanderers.
+WandurLust is a comprehensive travel platform designed for adventurers and explorers who want to discover and share extraordinary places around the world. Built with the powerful MERN (MongoDB, Express, React, and Node.js) stack, Wanderlust offers a seamless and secure user experience for both casual travelers and serious wanderers.
 
 Our platform allows users to:✨
 
@@ -11,7 +11,7 @@ Our platform allows users to:✨
 * Review and Rate Experiences: Share your thoughts on destinations you've visited or learn from the experiences of others through our review system.<br>
 * Secure Authentication: Enjoy a safe browsing and sharing environment with user authentication handled by Passport.<br>
 * Interactive Maps: Visualize locations effortlessly with Mapbox integration, making it easier to plan your next getaway.<br>
-AEROVIA is all about making travel planning fun, efficient, and collaborative. Whether you’re adding a hidden gem or exploring a bustling city, our platform connects you to a global community of travelers. ✈️✨<br>
+Wanderlust is all about making travel planning fun, efficient, and collaborative. Whether you’re adding a hidden gem or exploring a bustling city, our platform connects you to a global community of travelers. ✈️✨<br>
 
 Live Link: https://wanderlust-2024-tkqf.onrender.com/listing
 
